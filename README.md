@@ -1,5 +1,4 @@
 
-
 # Rozproszone systemy pomiarowe
 
 Repozytorium startowe do projektu z systemów rozproszonych.  
